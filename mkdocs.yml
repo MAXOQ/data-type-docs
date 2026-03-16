@@ -1,0 +1,7 @@
+site_name: Data Type Docs
+site_url: https://MAXOQ.github.io/data-type-docs/
+theme:
+  name: material
+
+nav:
+  - Home: index.md
